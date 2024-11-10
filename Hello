@@ -1,0 +1,5 @@
+print('Hello,world')
+print ('The best start ever')
+number = 3.41415
+rounded_number = round(number, 2)
+print(rounded_number)
